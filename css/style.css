@@ -15,12 +15,13 @@ header {
     background-size: cover;
     background-position: center;
     min-height: 100vh;
-    width: 100%;
+    max-width: 100%;
     padding: 155px 0 0 50px;
 }
 
 .app-banner-container {
     width: 650px;
+    
 }
 
 .app-banner-container p {
