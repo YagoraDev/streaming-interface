@@ -17,7 +17,13 @@
 
 .app-banner-container {
     width: 650px;
-    
+    display: flex;
+    flex-direction: column;
+}
+
+.app-banner-container img {
+    display: block;
+    max-width: 100%;
 }
 
 .app-banner-container p {
